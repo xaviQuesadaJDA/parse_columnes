@@ -1,0 +1,11 @@
+\pacient    paraula_important_01    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_02    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_03    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_04    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_05    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_06    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_07    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_08    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_09    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_10    altres_columnes    ñlasdf aslfdjk asldfkj
+\pacient    paraula_important_11    altres_columnes    ñlasdf aslfdjk asldfkj
